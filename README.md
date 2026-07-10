@@ -1,109 +1,105 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Anvar+M+S;Unity+Game+Developer;Gameplay+Programmer;Indie+Studio+Dreamer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Anvar+M+S;Unity+Game+Developer;Gameplay+Programmer;AR%2FVR+Developer;Indie+Studio+Dreamer" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.icons8.com/3d-fluency/94/controller.png" width="60"/>
-<img src="https://img.icons8.com/3d-fluency/94/unity.png" width="60"/>
 <img src="https://img.icons8.com/3d-fluency/94/source-code.png" width="60"/>
-<img src="https://img.icons8.com/3d-fluency/94/artificial-intelligence.png" width="60"/>
 <img src="https://img.icons8.com/3d-fluency/94/mountain.png" width="60"/>
 
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/48/user-male-circle.png" width="30"/> About Me
+## 🎮 About Me
 
-- 🎮 **Unity Game Developer** with 1+ year of professional experience
-- 🧠 Trained through **Brototype's** intensive game development program
-- 🚀 Currently building **Endless Maze Master** — a hybrid-casual mobile maze game
-- 🎯 Actively looking for **Unity Developer / Gameplay Programmer** roles in India
-- 📍 Based near **Calicut, Kerala** | Open to relocation | Immediate joiner
+- 🚀 **Unity Game Developer** with 1+ years of experience in performance-optimized 2D/3D game development
+- 💼 Previously at **Kyurius Tech Studios**, Bengaluru — shipped AR, Android, and WebGL builds in production
+- 📈 Achieved **35%+ WebGL performance gains** and **40% memory reduction** through systematic optimization
+- 🧠 Trained through **Brototype's** intensive Unity Game Development Program
+- 🎯 Actively looking for **Unity Developer / Gameplay Programmer** roles in India — immediate joiner, open to relocation
+- 📍 Based near **Calicut, Kerala**
 - 📺 I run a gaming & devlog YouTube channel — **CHARLydp**
 - 🌱 Long-term goal: launch my own **indie studio** and build a gaming hub in Calicut
 - 🏆 Dream studios: **Rockstar Games**, **Santa Monica Studio**, **Remedy Entertainment**
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/48/settings.png" width="30"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.icons8.com/3d-fluency/64/unity.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/c-sharp-logo.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/c-plus-plus-logo.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/git.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/github.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/visual-studio.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/blender-3d.png" width="55"/>&nbsp;&nbsp;
-<img src="https://img.icons8.com/3d-fluency/64/android-os.png" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" title="Unity"/>&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cs,cpp,git,github,androidstudio,blender&theme=dark" title="C#, C++, Git, GitHub, Android Studio, Blender"/>
+
+</div>
+
+<div align="center">
+
+`Unity` `C#` `C++` `AR Foundation` `URP/HDRP` `Cinemachine` `Shader Graph` `Photon PUN2` `Git` `Blender`
 
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/48/gamepad.png" width="30"/> Featured Projects
+## 🕹️ Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### <img src="https://img.icons8.com/3d-fluency/40/maze.png" width="24"/> Endless Maze Master
-**Hybrid-casual mobile maze game** *(in development)*
-Procedural maze generation, custom character controller, built for Google Play as a portfolio + devlog centerpiece.
+### 🧩 Maze Runner — Horror Game
+**Procedurally generated first-person horror game** for PC, Mobile & WebGL. Recursive backtracking maze generation + BFS-based AI pathfinding. Cross-platform input system with stable 60 FPS on mobile/WebGL.
 
-`Unity` `C#` `Procedural Generation` `Mobile`
+`Unity` `Procedural Generation` `AI State Machine` `WebGL`
+[▶ Play on itch.io](https://anvarms.itch.io/mazerunner)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.icons8.com/3d-fluency/40/parking.png" width="24"/> Car Parking Simulator
-**10-level parking simulation**
-Custom DFS graph-based AI pathfinding system for NPC vehicle navigation.
+### 🅿️ Car Parking Simulator
+**Multi-level driving game** with unlockable vehicles and AI traffic for Android/iOS. Graph-based AI traffic system, ScriptableObject-driven progression with encrypted save data. Steady 60 FPS on mid-range devices via occlusion culling.
 
-`Unity` `C#` `AI Pathfinding` `Graph Algorithms`
+`Unity` `AI Pathfinding` `ScriptableObjects` `Mobile Optimization`
+[▶ Play on itch.io](https://anvarms.itch.io/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://img.icons8.com/3d-fluency/40/labyrinth.png" width="24"/> Maze Runner
-**Procedurally generated maze game**
-Custom NPC state machine, deployed live on WebGL.
+### 🏀 AR Basketball
+**AR game built with AR Foundation** — realistic physics and swipe-based throwing with trajectory prediction. Full gameplay loop with scoring, time limits, and visual feedback, focused on intuitive touch interaction in 3D space.
 
-`Unity` `Procedural Generation` `State Machines` `WebGL`
+`Unity` `AR Foundation` `XR Toolkit` `Physics`
 
 </td>
 <td width="50%">
 
-### <img src="https://img.icons8.com/3d-fluency/40/spider.png" width="24"/> Spider Prototype
-**Procedural IK locomotion system**
-Terrain-adaptive spider movement using Unity Animation Rigging, with cinematic camera work.
+### 🚁 Drone Shooter — Multiplayer
+**Fast-paced multiplayer drone combat** with real-time sync for 8+ concurrent players at <150ms latency. Custom tilt-based controls plus lobby/matchmaking systems.
+
+`Photon PUN2` `Network Optimization` `Gameplay Programming`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🕷️ Spider Prototype
+**Procedural IK locomotion system** — terrain-adaptive spider movement using Unity Animation Rigging, with cinematic camera work.
 
 `Unity` `Animation Rigging` `Procedural IK`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://img.icons8.com/3d-fluency/40/running.png" width="24"/> Beat_O
-**Third-person parkour game**
-Fluid traversal mechanics and rhythm-based movement design.
-
-`Unity` `C#` `Parkour Mechanics`
+[▶ Play on itch.io](https://anvarms.itch.io/)
 
 </td>
 <td width="50%">
 
-### <img src="https://img.icons8.com/3d-fluency/40/snake.png" width="24"/> Snake Slash
-**Classic Snake, built from scratch**
-No engine — pure C++ with Raylib, for low-level graphics and game loop fundamentals.
+### 🌀 Endless Maze Master
+**Hybrid-casual mobile maze game** *(in development)* — procedural maze generation and custom character controller, built for Google Play as a portfolio + devlog centerpiece.
 
-`C++` `Raylib` `No Engine`
+`Unity` `C#` `Procedural Generation` `Mobile`
 
 </td>
 </tr>
@@ -111,36 +107,35 @@ No engine — pure C++ with Raylib, for low-level graphics and game loop fundame
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/48/statistics.png" width="30"/> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnvarMs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvarMs&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvarMs&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/3d-fluency/48/handshake.png" width="30"/> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:anvarms2005@gmail.com"><img src="https://img.icons8.com/3d-fluency/48/gmail-new.png" width="45"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/3d-fluency/48/linkedin.png" width="45"/></a>&nbsp;&nbsp;
-<a href="https://youtube.com/@CHARLydp"><img src="https://img.icons8.com/3d-fluency/48/youtube.png" width="45"/></a>&nbsp;&nbsp;
-<a href="https://github.com/yourusername"><img src="https://img.icons8.com/3d-fluency/48/github.png" width="45"/></a>
+<a href="mailto:anvarms2005@gmail.com">📧 Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/-anvar-ms">💼 LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://youtube.com/@CHARLydp">📺 YouTube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://anvarms.itch.io/">🎮 itch.io</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://anvarms.github.io/Portfolio">🌐 Portfolio</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://img.icons8.com/3d-fluency/40/controller.png" width="30"/>
-<i>Building worlds, one commit at a time.</i>
-<img src="https://img.icons8.com/3d-fluency/40/controller.png" width="30"/>
+<i>🎮 Building worlds, one commit at a time. 🎮</i>
 </div>
