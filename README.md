@@ -20,7 +20,6 @@
 - 🧠 Trained through **Brototype's** intensive Unity Game Development Program
 - 🎯 Actively looking for **Unity Developer / Gameplay Programmer** roles in India — immediate joiner, open to relocation
 - 📍 Based near **Calicut, Kerala**
-- 📺 I run a gaming & devlog YouTube channel — **CHARLydp**
 - 🌱 Long-term goal: launch my own **indie studio** and build a gaming hub in Calicut
 - 🏆 Dream studios: **Rockstar Games**, **Santa Monica Studio**, **Remedy Entertainment**
 
