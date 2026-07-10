@@ -111,8 +111,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnvarMs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvarMs&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
 <br/>
 
