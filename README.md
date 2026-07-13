@@ -125,7 +125,7 @@
 
 <a href="mailto:anvarms2005@gmail.com">📧 Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/-anvar-ms">💼 LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://youtube.com/@CHARLydp">📺 YouTube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://youtube.com/@DevAnvarMs">📺 YouTube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://anvarms.itch.io/">🎮 itch.io</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://anvarms.github.io/Portfolio">🌐 Portfolio</a>
 
