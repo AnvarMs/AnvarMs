@@ -12,6 +12,19 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvarMs&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<br/>
+
 ## 🎮 About Me
 
 - 🚀 **Unity Game Developer** with 1+ years of experience in performance-optimized 2D/3D game development
@@ -103,19 +116,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvarMs&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
 
 <br/>
 
